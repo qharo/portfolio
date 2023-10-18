@@ -2,8 +2,10 @@
 layout: default
 ---
 
-# [Projects](./another-page.html)
-- ### First Project 
+# Projects
+### [DNA Encoding](./another-page.html) 
+> Laborataire I3S, CNRS, Sophia Antipolis
+- Reduced it by 90%
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
