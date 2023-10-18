@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# [Projects](./another-page.html)
+- ### First Project 
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
