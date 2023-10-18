@@ -3,21 +3,23 @@ layout: default
 ---
 
 # Projects
-### [DNA Encoding](./another-page.html) 
-> Laborataire I3S, CNRS, Sophia Antipolis
+### [Fine-Tuning a LLM using RLHF for the Socratic Method](./another-page.html) 
+- The project aims to develop an interactive LLM using the Socratic method to aid learning. It uses RLHF to adapt its behavior by creating a "reward model" from human feedback and optimizing responses.
 
-- Reduced it by 90%
-- DNA Encoding
-  
-### [DNA Encoding](./another-page.html) 
-> Laborataire I3S, CNRS, Sophia Antipolis
-
-- Reduced it by 90%
-- DNA Encoding
+### [L1∞ Projection for Convolutional Autoencoders with Quaternary Encoding](./another-page.html) 
+- Leveraged L1inf projection to achieve approximately 90% sparsity in a Convolutional Variational Autoencoder model, whilst preserving high performance.
+- Utilized a Convolutional Variational Autoencoder (CVA) to optimize a DNA image encoding, storing the latent space in quaternary (base-4).
+ 
+### [Determining the Effect of Correlation between Asthma/Gross Domestic Product and Air Pollution]() 
+- The study analyzed the correlation between air pollution, asthma, and GDP in 20 American states over 20 years. The models used included a Dense Neural Network, Random Forest Classifier, Support Vector Machine, and K-Nearest Neighbors, with the Dense Neural Network showing the best accuracy for predicting GDP.
 
 # Education
-### [EURECOM]
-### [Amrita University]
+### Master's in Computer Science (Data Science)
+> [EURECOM](https://www.eurecom.fr/) | Sept'22 - Sept'24
+
+### [Amrita University](https://www.amrita.edu/)
+> [Amrita University](https://www.amrita.edu/) | June'18 - May'22
+
 
 # Work Experience
 ### [EURECOM]
