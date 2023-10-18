@@ -15,7 +15,8 @@ layout: default
 
 # Education
 ### Master's in Computer Science (Data Science)
-> [EURECOM](https://www.eurecom.fr/) | Sept'22 - Sept'24
+<dd>[EURECOM](https://www.eurecom.fr/) | Sept'22 - Sept'24</dd>
+
 
 ### [Amrita University](https://www.amrita.edu/)
 > [Amrita University](https://www.amrita.edu/) | June'18 - May'22
