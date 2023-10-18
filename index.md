@@ -13,7 +13,7 @@ layout: default
 ### [Determining the Effect of Correlation between Asthma/Gross Domestic Product and Air Pollution]() 
 - The study analyzed the correlation between air pollution, asthma, and GDP in 20 American states over 20 years. The models used included a Dense Neural Network, Random Forest Classifier, Support Vector Machine, and K-Nearest Neighbors, with the Dense Neural Network showing the best accuracy for predicting GDP.
 
----
+<br>
 
 # Education
 ### Master's in Computer Science (Data Science)
@@ -26,20 +26,19 @@ layout: default
 ### Bachelor's in Technology (Electronics and Communication Engineering)
 > [Amrita University](https://www.amrita.edu/) | June'18 - May'22
 
----
+<br>
 
 # Work Experience
 ## [Laboratory I3S](https://www.i3s.unice.fr/en/)
 **Research Intern | July'23 - Sept'23**
 -  I focused on using L1∞ Projection in autoencoders (fully-connected and convolutional) for high sparsity with maintained performance. We also tackled base-4 encoding for DNA sequences in Convolutional Autoencoders (CAE). Projection analysis covered both entire models and encoders, with slightly better results when projecting on the decoder in CAEs. Quaternary encoding via Shannon Fano Coding was applied, and pretrained models were retrained for more sparsity. The Multi-Description Model was employed as dual sender-receivers, with L1∞ Projection reducing the payload size.
 
-<br>
 
 ## [3Analytics](https://3analytics.com/index.html)
 **Data Science Intern | Nov'21 - June'22**
 - During this internship, I automated Naranjo and WHO algorithms for accurate adverse drug reaction prediction with NLP (Spacy and BioBERT). I also created a COVID-19 Diagnostic Kit Classifier using advanced Image Processing and a pre-trained model for precise case detection.
 
----
+<br>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
