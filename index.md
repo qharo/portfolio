@@ -5,8 +5,23 @@ layout: default
 # Projects
 ### [DNA Encoding](./another-page.html) 
 > Laborataire I3S, CNRS, Sophia Antipolis
-- Reduced it by 90%
 
+- Reduced it by 90%
+- DNA Encoding
+  
+### [DNA Encoding](./another-page.html) 
+> Laborataire I3S, CNRS, Sophia Antipolis
+
+- Reduced it by 90%
+- DNA Encoding
+
+# Education
+### [EURECOM]
+### [Amrita University]
+
+# Work Experience
+### [EURECOM]
+### [Amrita University]
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
