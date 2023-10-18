@@ -15,7 +15,7 @@ layout: default
 
 # Education
 ### Master's in Computer Science (Data Science)
-> [EURECOM](https://www.eurecom.fr/) | Sept'22 - Sept'24</dd>
+> [EURECOM](https://www.eurecom.fr/) | Sept'22 - Sept'24
 > GPA: 9.9
 
 ### [Amrita University](https://www.amrita.edu/)
@@ -28,7 +28,7 @@ layout: default
 
 ### [3Analytics](https://3analytics.com/index.html) 
 **Data Science Intern | Nov'21 - June'22**
-During this internship, I automated Naranjo and WHO algorithms for accurate adverse drug reaction prediction with NLP (Spacy and BioBERT). I also created a COVID-19 Diagnostic Kit Classifier using advanced Image Processing and a pre-trained model for precise case detection.
+- During this internship, I automated Naranjo and WHO algorithms for accurate adverse drug reaction prediction with NLP (Spacy and BioBERT). I also created a COVID-19 Diagnostic Kit Classifier using advanced Image Processing and a pre-trained model for precise case detection.
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
