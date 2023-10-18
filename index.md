@@ -32,6 +32,9 @@ layout: default
 ## [3Analytics](https://3analytics.com/index.html)
 **Data Science Intern | Nov'21 - June'22**
 - During this internship, I automated Naranjo and WHO algorithms for accurate adverse drug reaction prediction with NLP (Spacy and BioBERT). I also created a COVID-19 Diagnostic Kit Classifier using advanced Image Processing and a pre-trained model for precise case detection.
+
+---
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
