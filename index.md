@@ -16,15 +16,16 @@ layout: default
 <br>
 
 # Education
-### Master's in Computer Science (Data Science)
-> [EURECOM](https://www.eurecom.fr/) | Sept'22 - Sept'24
-> 
-> Key Courses: Advanced Statistical Inference, 
+## Master's in Computer Science (Data Science)
+**[EURECOM](https://www.eurecom.fr/) | Sept'22 - Sept'24**
+
+- _Key Courses_: Advanced Statistical Inference, 
 
 <br>
 
-### Bachelor's in Technology (Electronics and Communication Engineering)
-> [Amrita University](https://www.amrita.edu/) | June'18 - May'22
+## Bachelor's in Technology (Electronics and Communication Engineering)
+**[Amrita University](https://www.amrita.edu/) | June'18 - May'22**
+- _GPA_: Advanced Statistical Inference, 
 
 <br>
 
