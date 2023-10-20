@@ -25,12 +25,12 @@ layout: default
 # Education
 ## Master's in Computer Science (Data Science)
 **[EURECOM](https://www.eurecom.fr/) | Sept'22 - Sept'24**
-
-- _Key Courses_: Advanced Statistical Inference, 
+- _Key Courses_: Advanced Statistical Inference, Deep Learning, Algorithmic Machine Learning, Machine Learning and Intelligent Systems, Distributed Systems and Cloud Computing,
 
 ## Bachelor's in Technology (Electronics and Communication Engineering)
 **[Amrita University](https://www.amrita.edu/) | June'18 - May'22**
-- _GPA_: Advanced Statistical Inference, 
+- _GPA_: 8.26
+- _Key Courses_: Linear Algebra, Vector Calculus and ODE's,  Information Theory, Pattern Recognition, Computer State Architecture
 
 <br>
 
@@ -47,6 +47,13 @@ layout: default
 
 # Languages
 
+| Language        | Proficiency          |
+|:-------------|:------------------|
+| English           | Native (IELTS 8.0/9.0) |
+| French | Intermediate | 
+| Tamil, Malayalam, Hindi | Native | 
+
+<br>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
