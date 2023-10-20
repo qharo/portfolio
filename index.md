@@ -4,20 +4,20 @@ layout: default
 
 # Projects
 ### [Fine-Tuning a LLM using RLHF for the Socratic Method](./another-page.html) 
-##### Sept'23 - Ongoing
+#### Sept'23 - Ongoing
 - The project aims to develop an interactive LLM using the Socratic method to aid learning. It uses RLHF to adapt its behavior by creating a "reward model" from human feedback and optimizing responses.
 
 ### [L1∞ Projection for Convolutional Autoencoders with Quaternary Encoding](./another-page.html) 
-##### July'23 - Sept'23
+#### July'23 - Sept'23
 - Leveraged L1∞ projection to achieve approximately 90% sparsity in a Convolutional Variational Autoencoder model, whilst preserving high performance.
 - Utilized a Convolutional Variational Autoencoder (CVA) to optimize a DNA image encoding, storing the latent space in quaternary (base-4).
 
 ### [Querying Large Language Models with SQL]() 
-##### March'23 - June'23
+#### March'23 - June'23
 - A prototype named Galois combines traditional database architecture with unique operators for LLM querying. The project aims to enhance the clarity of responses by using advanced prompting techniques, resulting in improved accuracy and more diverse outcomes.
  
 ### [Determining the Effect of Correlation between Asthma/Gross Domestic Product and Air Pollution](https://ieeexplore.ieee.org/document/9767145) 
-##### Feb'21 - June'21
+#### Feb'21 - June'21
 - The study analyzed the correlation between air pollution, asthma, and GDP in 20 American states over 20 years. The models used included a Dense Neural Network, Random Forest Classifier, Support Vector Machine, and K-Nearest Neighbors, with the Dense Neural Network showing the best accuracy for predicting GDP.
 
 <br>
